@@ -1,0 +1,1 @@
+ -- GoogleTranslateAPI for PHP
