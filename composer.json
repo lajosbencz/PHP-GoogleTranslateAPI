@@ -1,0 +1,20 @@
+{
+    "name": "lajosbencz/php-googletranslateapi",
+    "description": "Class library for Google Translate API",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lajos Bencz",
+            "email": "lazos@lazos.me"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": [
+            "src/GoogleTranslateAPI.php"
+        ]
+    }
+}
